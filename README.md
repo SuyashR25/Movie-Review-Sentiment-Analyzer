@@ -34,8 +34,8 @@ The web interface allows users to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-sentiment-analysis.git
-   cd movie-sentiment-analysis
+   git clone https://github.com/SuyashR25/Movie-Review-Sentiment-Analyzer.git
+   cd Movie-Review-Sentiment-Analyzer
    ```
 
 2. **Create a virtual environment**
